@@ -2,9 +2,9 @@
 
 Computer Science student at **DCU** in Dublin. I build the software small businesses run on.
 
-For the past two years I've been digitising **BodyMed Healthcare**, a clinic in Clontarf: online booking and payments, a reception dashboard, therapist invoicing and a staff hub, all used every day by patients and staff.
+For the past two years I've been digitising **BodyMed Healthcare**, a clinic in Clontarf: online booking and payments, a reception dashboard, invoicing and a staff hub, all used every day by patients and staff.
 
-**LinkedIn:** [Cian McCaul](https://www.linkedin.com/in/cian-mccaul-7a9b01397) · **Email:** cian.mccaul@outlook.com
+**Portfolio:** [cianmccaul.vercel.app](https://cianmccaul.vercel.app) · **LinkedIn:** [Cian McCaul](https://www.linkedin.com/in/cian-mccaul-7a9b01397) · **Email:** cian.mccaul@outlook.com
 
 ---
 
