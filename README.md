@@ -14,7 +14,7 @@ For the past two years I've been digitising **BodyMed Healthcare**, a clinic in 
 | --- | --- | --- |
 | [**Clinic platform**](https://github.com/cianmccaul/clinic-platform-demo) | Online booking, Stripe payments, reception dashboard, invoicing, vouchers and waitlist for a multi-therapist clinic. [Live booking site](https://book.bodymed.ie) | Next.js, TypeScript, Stripe Connect, Cliniko API, Redis |
 | [**Jarvis site monitor**](https://github.com/cianmccaul/site-monitor) | Checks my sites every 15 minutes, explains outages in plain English, and opens a small, guarded fix PR I can approve from my phone | Node.js, GitHub Actions, Groq, Playwright |
-| [**AI email triage**](https://github.com/cianmccaul/email-triage-demo) | Sorts a clinic inbox into folders, drafts replies with AI and learns from staff edits *(experimental)* | Next.js, Supabase, Llama 3.3 |
+| [**AI email triage**](https://github.com/cianmccaul/email-triage-demo) | Sorts a clinic inbox into folders, drafts replies with AI and learns from staff edits. [Live demo](https://cian-email-triage.vercel.app) | Next.js, Supabase, Llama 3.3 |
 | [**DEME Housepainting**](https://github.com/cianmccaul/deme-housepainting) | Website and contact form for a local painting business | HTML, CSS, JavaScript, Vercel |
 
 #### Tools I use most
