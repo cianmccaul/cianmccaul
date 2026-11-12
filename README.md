@@ -1,5 +1,7 @@
 ### Hi, I'm Cian 👋
 
+**[Portfolio](https://cianmccaul.vercel.app)** · **[Jarvis demo](https://jarvis-demo.pages.dev)** (break a site, watch it get fixed) · **[Clinic demo](https://cian-clinic-demo.vercel.app)** (book, pay and run reception)
+
 Computer Science student at **DCU** in Dublin. I build the software small businesses run on.
 
 For the past two years I've been digitising **BodyMed Healthcare**, a clinic in Clontarf: online booking and payments, a reception dashboard, invoicing and a staff hub, all used every day by patients and staff.
@@ -15,7 +17,7 @@ For the past two years I've been digitising **BodyMed Healthcare**, a clinic in 
 | [**Clinic platform**](https://github.com/cianmccaul/clinic-platform-demo) | Online booking, Stripe payments, reception dashboard, invoicing, vouchers and waitlist for a multi-therapist clinic. [Live demo](https://cian-clinic-demo.vercel.app) · [Live booking site](https://book.bodymed.ie) | Next.js, TypeScript, Stripe Connect, Cliniko API, Redis |
 | [**Jarvis site monitor**](https://github.com/cianmccaul/site-monitor) | Checks my sites every 15 minutes, explains outages in plain English, and opens a small, guarded fix PR I can approve from my phone | Node.js, GitHub Actions, Groq, Playwright |
 | [**AI email triage**](https://github.com/cianmccaul/email-triage-demo) | Sorts a clinic inbox into folders, drafts replies with AI and learns from staff edits. [Live demo](https://cian-email-triage.vercel.app) | Next.js, Supabase, Llama 3.3 |
-| **CM Studio DesignRoom** | A showroom where web-design clients pick live components and send a brief; I get ready-to-use code and a pre-filled starter site. [Live](https://cm-studio-designroom.vercel.app) | HTML, CSS, JavaScript, Supabase |
+| **CM Studio DesignRoom** | A showroom where web-design clients pick live components and send a brief; I get ready-to-use code and a pre-filled starter site. [Live demo](https://cm-studio-designroom.vercel.app/?demo=1) | HTML, CSS, JavaScript, Supabase |
 | [**DEME Housepainting**](https://github.com/cianmccaul/deme-housepainting) | Website and contact form for a local painting business | HTML, CSS, JavaScript, Vercel |
 
 #### Tools I use most
