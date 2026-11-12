@@ -1,6 +1,6 @@
 ### Hi, I'm Cian 👋
 
-**[Portfolio](https://cianmccaul.vercel.app)** · **[Jarvis demo](https://jarvis-demo.pages.dev)** (break a site, watch it get fixed) · **[Clinic demo](https://cian-clinic-demo.vercel.app)** (book, pay and run reception)
+**[Portfolio](https://cianmccaul.vercel.app)** · **[Jarvis demo](https://cian-jarvis-demo.vercel.app)** (break a site, watch it get fixed) · **[Clinic demo](https://cian-clinic-demo.vercel.app)** (book, pay and run reception)
 
 Computer Science student at **DCU** in Dublin. I build the software small businesses run on.
 
